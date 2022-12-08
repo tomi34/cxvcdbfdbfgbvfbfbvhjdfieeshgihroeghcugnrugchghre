@@ -12,17 +12,17 @@ input.onGesture(Gesture.Shake, function () {
         return
     }
     basic.clearScreen()
-    basic.showString("Never gonna give you up", 70)
+    basic.showString("Never gonna give you up", 50)
 basic.pause(100)
-    basic.showString("Never gonna let you down", 70)
+    basic.showString("Never gonna let you down", 50)
 basic.pause(100)
-    basic.showString("Never gonna turn around and desert you", 70)
+    basic.showString("Never gonna turn around and desert you", 50)
 basic.pause(100)
-    basic.showString("Never gonna make you cry", 70)
+    basic.showString("Never gonna make you cry", 50)
 basic.pause(100)
-    basic.showString("Never gonna say goodbye", 70)
+    basic.showString("Never gonna say goodbye", 50)
 basic.pause(100)
-    basic.showString("Never gonna tell a lie and hurt you", 70)
+    basic.showString("Never gonna tell a lie and hurt you", 50)
 basic.pause(100)
 })
 function assfa (x: number, y: number) {
